@@ -1,2 +1,9 @@
-# subscriptions-pro
-Subscriptions Pro is a WordPress plugin that allows you accept recurring payments using Stripe.
+Subscriptions Pro
+=================
+
+#### Description
+---
+
+This plugin is **INCOMPLETE**
+
+Subscriptions Pro is a WordPress plugin that allows you to accept recurring payments using Stripe.
